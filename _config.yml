@@ -23,7 +23,7 @@ keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
 url: http://www.jerodestapa.com
-baseurl: "/dotX"
+baseurl: "/"
 # baseurl: ""
 
 # Author settings
