@@ -1,2 +1,2 @@
-# jerodestapa.github.io
-My Site
+# github.io sample site
+
